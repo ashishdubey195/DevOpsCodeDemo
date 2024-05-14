@@ -12,8 +12,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <failOnMissingWebXml>false</failOnMissingWebXml>
         <vaadin.version>8.0.0.alpha2</vaadin.version>
-        <vaadin.plugin.version>${vaadin.version}</vaadin.plugin.version>
-	<sonar.login>sonartoken</sonar.login>   
+        <vaadin.plugin.version>${vaadin.version}</vaadin.plugin.version>  
     </properties>
 
     <repositories>
